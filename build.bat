@@ -1,0 +1,1 @@
+python -m PyInstaller --noconsole --onefile --distpath . --collect-all flet --name "CampApp" main.py
